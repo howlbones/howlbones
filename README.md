@@ -1,7 +1,7 @@
 <h1 align="center">Hi there ☾</h2>
 <h2 align="center">I develop websites</h2>
 
-<img align="center" alt="GIF" src="./particles.webp" width="500" height="320" />
+<img align="right" alt="GIF" src="./particles.webp" width="500" height="320" />
 
 <h2 align="center">:hammer_and_wrench: Tech and Tools I work with:</h2>
 <p align="center">
