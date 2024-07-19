@@ -1,9 +1,9 @@
 <h1 align="center">Hi there ☾</h2>
-<h2 align="center">I develop websites</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=howlbones&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="center">I develop websites</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=howlbones&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-<img align="right" alt="GIF" src="./particles.webp" width="500" height="320" />
+<img align="center" alt="GIF" src="./particles.webp" width="500" height="200" />
 
 <h2 align="center">:hammer_and_wrench: Tech and Tools I work with:</h2>
 <p align="center">
