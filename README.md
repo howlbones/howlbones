@@ -3,7 +3,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=howlbones&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-<div align="center"><img align="center" alt="GIF" src="./particles.webp" width="800" height="200" /></div>
+<div align="center"><img align="center" alt="GIF" src="./particles.webp" width="400" height="200" /></div>
+
+<br>
+<br>
 
 <!-- Tools -->
 <p align="center">:hammer_and_wrench: Tech and Tools I work with</p>
