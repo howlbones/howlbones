@@ -2,6 +2,8 @@
 <p align="center">I develop websites</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=howlbones&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
+<br>
+<br>
 
 <div align="center"><img align="center" alt="GIF" src="./particles.webp" width="300" height="200" /></div>
 
