@@ -3,9 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=howlbones&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-<img align="center" alt="GIF" src="./particles.webp" width="500" height="200" />
+<div align="center"><img align="center" alt="GIF" src="./particles.webp" width="500" height="200" /></div>
 
-<h2 align="center">:hammer_and_wrench: Tech and Tools I work with:</h2>
+<h5 align="center">:hammer_and_wrench: Tech and Tools I work with:</h5>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -18,6 +18,6 @@
 </p>
 
 <!-- Stats -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=howlbones&theme=dark" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=howlbones&theme=dark" alt="GitHub Streak" /></a>
 
 - 📫 How to reach me: 
