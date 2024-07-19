@@ -1,5 +1,7 @@
 <h1 align="center">Hi there ☾</h2>
 <h2 align="center">I develop websites</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=howlbones&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
 <img align="right" alt="GIF" src="./particles.webp" width="500" height="320" />
 
@@ -14,5 +16,8 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+<!-- Stats -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=howlbones&theme=dark" alt="GitHub Streak" /></a>
 
 - 📫 How to reach me: 
